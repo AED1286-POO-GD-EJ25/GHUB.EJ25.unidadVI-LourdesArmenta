@@ -29,6 +29,9 @@ public class EscribeCamino {
         }
         } catch (FileNotFoundException e) {
             System.out.println("No se pudo encontrar el archivo: " + e.getMessage());
+        }catch (NumberFormatException e){
+            System.out.println("El segundo valor debe ser un número"+e.getMessage());
+        
         } catch (IOException e) {
             System.out.println("Error de entrada/salida: " + e.getMessage());
         } catch (Exception e) {
