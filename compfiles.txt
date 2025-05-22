@@ -1,9 +1,12 @@
+./miPrincipal/Estudiante.java
 ./miPrincipal/EscribeCamino.java
 ./miPrincipal/EscribirArchivo.java
 ./miPrincipal/Principal.java
 ./miPrincipal/ModificarArchivo.java
 ./miPrincipal/CrearArchivo.java
 ./miPrincipal/RenombrarArchivo.java
+./miPrincipal/DeserializarEstudiante.java
+./miPrincipal/SerializarEstudiante.java
 ./miPrincipal/LeerArchivoBinario.java
 ./miPrincipal/LeerArchivo.java
 ./miPrincipal/ArchivoAleatorio.java
