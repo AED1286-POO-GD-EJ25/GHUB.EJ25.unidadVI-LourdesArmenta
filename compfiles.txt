@@ -1,8 +1,12 @@
+./miPrincipal/ManejoArchivoNIO.java
 ./miPrincipal/Estudiante.java
 ./miPrincipal/EscribeCamino.java
 ./miPrincipal/EscribirArchivo.java
+./miPrincipal/LecturaSecuencia.java
 ./miPrincipal/Principal.java
+./miPrincipal/ManejoArchivosCommonsIO.java
 ./miPrincipal/ModificarArchivo.java
+./miPrincipal/EscrituraSecuencial.java
 ./miPrincipal/CrearArchivo.java
 ./miPrincipal/RenombrarArchivo.java
 ./miPrincipal/DeserializarEstudiante.java
@@ -10,5 +14,7 @@
 ./miPrincipal/LeerArchivoBinario.java
 ./miPrincipal/LeerArchivo.java
 ./miPrincipal/ArchivoAleatorio.java
+./miPrincipal/EscrituraAleatoria.java
 ./miPrincipal/EliminarArchivo.java
+./miPrincipal/LecturaAleatoria.java
 ./miTest/AppTest.java
